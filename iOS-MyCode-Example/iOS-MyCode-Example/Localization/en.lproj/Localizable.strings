@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  iOS-MyCode-Example
+
+  Created by Zakariae El Aloussi on 1/9/2022.
+*/
+
+"app_name" = "SpaceX";
+
+//MARK: -- HOME SCREEN
+"home_screen.company" = "Company";
+
+"home_screen.launches" = "Launches";
+
+"home_screen.company_description" = "%@ was founded by %@ in %@. it has now %@ employees, %@ launch sites, and is valued at USD %@";
+
+"home_screen.no_launches_found" = "No launches found.";
+
+"home_screen.mission" = "Mission";
+
+"home_screen.datetime" = "Date/time";
+
+"home_screen.rocket" = "Rocket";
+
+"home_screen.n_a" = "N/A";
+
+"home_screen.days_since_now" = "Days since now";
+
+"home_screen.days_from_now" = "Days from now";
+
+"home_screen.launch_datetime" = "%@ at %@";
+
+"home_screen.rocket_info" = "%@ / %@";
+
+"home_screen.link_alert.title" = "Click on your preferred source";
+
+"home_screen.link_alert.wikipedia" = "Wikipedia";
+
+"home_screen.link_alert.webcast" = "Webcast";
+
+"home_screen.link_alert.sources_are_not_available" = "Sources are not available";
+
+"home_screen.link_alert.ok" = "OK";
+
+//MARK: -- HOME SCREEN / FILTER VIEW
+
+"home_screen.filter_view.title" = "Filter";
+
+"home_screen.filter_view.year" = "Year";
+
+"home_screen.filter_view.sort" = "Sort";
+
+"home_screen.filter_view.asc" = "ASC";
+
+"home_screen.filter_view.desc" = "DESC";
+
+"home_screen.filter_view.apply" = "Apply";
+
+"home_screen.filter_view.reset" = "Reset";
+
+//MARK: -- HOME SCREEN / ALERT ERROR VIEW
+
+"home_screen.alert_error_view.title" = "Warning";
+
+"home_screen.alert_error_view.description" = "We're encountering an error, please check your connection or retry after a while.";
+
+"home_screen.alert_error_view.retry" = "Retry";

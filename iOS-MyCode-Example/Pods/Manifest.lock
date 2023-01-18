@@ -1,0 +1,26 @@
+PODS:
+  - Kingfisher (7.5.0)
+  - SnapKit (5.6.0)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+
+DEPENDENCIES:
+  - Kingfisher
+  - SnapKit
+  - SwiftMessages
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - SnapKit
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Kingfisher: b9c2a4a4af2990a768445c277359b27bde287d71
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+
+PODFILE CHECKSUM: 888b1e2ae04e927f6ce096c2201fd022a2c29995
+
+COCOAPODS: 1.11.3
